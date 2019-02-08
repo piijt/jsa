@@ -69,3 +69,5 @@ window.alert(countries['UZB']);
 for(var index in languages) {
   document.write( index + " : " + languages[index] + "<br />");
 }
+
+// Hejsa
